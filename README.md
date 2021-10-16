@@ -2,7 +2,7 @@
 # Introduction:
 
 The purpose of this project is to perform Data Analysis on 'Restaurants Rating' dataset and compute the prediction of Rating using various algorithms.
-After applying all the models  Decision Tree appears to be the model with the best accuracy. The dataset is of the time when Zomato was spreaded in 15 countries, currently in 2021 Zomato is expanded in around 25 countires.
+After applying all the models  Decision Tree appears to be the model with the best accuracy. The dataset is of the time when Zomato was presented in 15 countries, currently in 2021 Zomato is expanded in around 25 countries.
 
 # Purpose:
 Since new restaurants are getting opened everyday, it is hard for the operator to manage. How good or bad a restaurant will turn out in the future so that, they can take a decision which restaurant to include in the application or not. Also, to manage the starting rating for an new restaurant.
